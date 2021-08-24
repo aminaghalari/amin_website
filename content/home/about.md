@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: RECENT-POSTS
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I received the B.S. and M.S. degrees in industrial and system engineering at Sharif University of Technology, Tehran, Iran, in 2015 and 2018, respectively. I am currently a Ph.D. student in industrial and system engineering at Mississippi State University, USA. My methodological expertise lies in discrete and stochastic optimization, data analytics and statistical learning, data-driven decision making, parallel computing, and heuristics techniques. I applied these methodologies to solve real-life problems in a broad range of application areas, such as logistics and supply chain, energy, and security-related problems.
